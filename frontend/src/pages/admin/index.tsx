@@ -1,0 +1,11 @@
+export { default as AdminDashboardPage } from './AdminDashboardPage';
+export { default as TeamManagementPage } from './TeamManagementPage';
+export { default as IndividualManagementPage } from './IndividualManagementPage';
+export { default as AttendanceManagementPage } from './AttendanceManagementPage';
+export { default as QrAttendancePage } from './QrAttendancePage';
+export { default as TeamScoreEntryPage } from './TeamScoreEntryPage';
+export { default as IndividualScoreEntryPage } from './IndividualScoreEntryPage';
+export { default as PenaltyManagementPage } from './PenaltyManagementPage';
+export { default as AnnouncementsManagementPage } from './AnnouncementsManagementPage';
+export { default as MaterialsManagementPage } from './MaterialsManagementPage';
+export { default as RewardsManagementPage } from './RewardsManagementPage';
